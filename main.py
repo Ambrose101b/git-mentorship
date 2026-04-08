@@ -1,3 +1,2 @@
-print("hello get mentorship")
-print("Welcome to Day 2")
-print("This is day 3")
+name = input("enter ur name: ")
+print(f"hello , {name} welcome to git")
